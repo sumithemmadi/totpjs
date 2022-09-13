@@ -1,0 +1,7 @@
+node_modules
+example/
+example/example.mp4
+example/example.gif
+example/add.png
+example/remove.png
+tests/test.js
